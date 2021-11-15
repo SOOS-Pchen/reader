@@ -14,14 +14,14 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="realpython-reader",
+    name="lightmgb",
     version="1.0.0",
     description="Read the latest Real Python tutorials",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
-    author="Real Python",
-    author_email="info@realpython.com",
+    url="https://github.com/SOOS-Pchen/reader",
+    author="PJC Bro",
+    author_email="pchen@soos.io",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
